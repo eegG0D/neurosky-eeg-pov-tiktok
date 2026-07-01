@@ -1,5 +1,5 @@
 # POV TikTok
-
+![Application Screenshot](Capture1.jpg)![Application Screenshot](Capture3.jpg)![Application Screenshot](Capture4.jpg)
 An Android app that turns a live EEG headset feed into on-screen "subtitles" over a
 full-screen camera view, and records the result as a shareable POV-style video. It also
 ships two standalone tools: a raw-EEG CSV **Recorder** and a diagnostic **Translator**
