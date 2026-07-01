@@ -1,0 +1,6 @@
+com.pov.tiktok.test.app-androidTest-0 C:\Users\vinny\Desktop\desktop\pov-tiktok\app\build\generated\res\resValues\androidTest\debug
+com.pov.tiktok.test.app-updated_navigation_xml-1 C:\Users\vinny\Desktop\desktop\pov-tiktok\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.pov.tiktok.test.app-mergeDebugAndroidTestResources-2 C:\Users\vinny\Desktop\desktop\pov-tiktok\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.pov.tiktok.test.app-mergeDebugAndroidTestResources-3 C:\Users\vinny\Desktop\desktop\pov-tiktok\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.pov.tiktok.test.app-debugAndroidTest-4 C:\Users\vinny\Desktop\desktop\pov-tiktok\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+gradleHome-0 C:\Users\vinny\.gradle

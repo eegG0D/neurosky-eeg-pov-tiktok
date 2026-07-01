@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.pov.tiktok.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.pov.tiktok.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinny\\.gradle\\daemon\\9.4.1\\com.pov.tiktok.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\vinny\\.gradle\\daemon\\9.4.1\\com.pov.tiktok.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinny\\.gradle\\daemon\\9.4.1\\com.pov.tiktok.app-debug-31:\\layout_activity_profession_calc.xml.flat",
+        "source": "C:\\Users\\vinny\\.gradle\\daemon\\9.4.1\\com.pov.tiktok.app-main-33:\\layout\\activity_profession_calc.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinny\\.gradle\\daemon\\9.4.1\\com.pov.tiktok.app-debug-31:\\layout_wave_row.xml.flat",
+        "source": "C:\\Users\\vinny\\.gradle\\daemon\\9.4.1\\com.pov.tiktok.app-main-33:\\layout\\wave_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinny\\.gradle\\daemon\\9.4.1\\com.pov.tiktok.app-debug-31:\\layout_activity_recorder.xml.flat",
+        "source": "C:\\Users\\vinny\\.gradle\\daemon\\9.4.1\\com.pov.tiktok.app-main-33:\\layout\\activity_recorder.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinny\\.gradle\\daemon\\9.4.1\\com.pov.tiktok.app-debug-31:\\layout_secure_record.xml.flat",
+        "source": "C:\\Users\\vinny\\.gradle\\daemon\\9.4.1\\com.pov.tiktok.app-main-33:\\layout\\secure_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinny\\.gradle\\daemon\\9.4.1\\com.pov.tiktok.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\vinny\\.gradle\\daemon\\9.4.1\\com.pov.tiktok.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinny\\.gradle\\daemon\\9.4.1\\com.pov.tiktok.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\vinny\\.gradle\\daemon\\9.4.1\\com.pov.tiktok.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinny\\.gradle\\daemon\\9.4.1\\com.pov.tiktok.app-debug-31:\\layout_secure_topbar.xml.flat",
+        "source": "C:\\Users\\vinny\\.gradle\\daemon\\9.4.1\\com.pov.tiktok.app-main-33:\\layout\\secure_topbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinny\\.gradle\\daemon\\9.4.1\\com.pov.tiktok.app-debug-31:\\layout_activity_translator.xml.flat",
+        "source": "C:\\Users\\vinny\\.gradle\\daemon\\9.4.1\\com.pov.tiktok.app-main-33:\\layout\\activity_translator.xml"
+    }
+]

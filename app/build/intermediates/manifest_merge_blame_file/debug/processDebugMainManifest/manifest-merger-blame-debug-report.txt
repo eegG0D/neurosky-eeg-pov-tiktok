@@ -1,0 +1,226 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.pov.tiktok"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->INJECTED
+8        android:minSdkVersion="26"
+8-->INJECTED
+9        android:targetSdkVersion="34" />
+9-->INJECTED
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:6:5-65
+12-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:6:22-62
+13    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+13-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:7:5-71
+13-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:7:22-68
+14    <uses-permission
+14-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:9:5-10:38
+15        android:name="android.permission.BLUETOOTH"
+15-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:9:22-65
+16        android:maxSdkVersion="30" />
+16-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:10:9-35
+17    <uses-permission
+17-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:11:5-12:38
+18        android:name="android.permission.BLUETOOTH_ADMIN"
+18-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:11:22-71
+19        android:maxSdkVersion="30" />
+19-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:12:9-35
+20    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+20-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:13:5-76
+20-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:13:22-73
+21    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+21-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:15:5-77
+21-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:15:22-74
+22    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION" />
+22-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:16:5-94
+22-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:16:22-91
+23    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+23-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:17:5-92
+23-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:17:22-89
+24    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE" />
+24-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:18:5-94
+24-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:18:22-91
+25    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+25-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:19:5-77
+25-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:19:22-74
+26    <uses-permission android:name="android.permission.WAKE_LOCK" />
+26-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:20:5-68
+26-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:20:22-65
+27
+28    <uses-feature
+28-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:22:5-84
+29        android:name="android.hardware.camera"
+29-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:22:19-57
+30        android:required="true" />
+30-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:22:58-81
+31    <uses-feature
+31-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:23:5-88
+32        android:name="android.hardware.microphone"
+32-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:23:19-61
+33        android:required="true" />
+33-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:23:62-85
+34    <uses-feature
+34-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:24:5-88
+35        android:name="android.hardware.bluetooth"
+35-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:24:19-60
+36        android:required="false" />
+36-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:24:61-85
+37
+38    <permission
+38-->[androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+39        android:name="com.pov.tiktok.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+39-->[androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+40        android:protectionLevel="signature" />
+40-->[androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+41
+42    <uses-permission android:name="com.pov.tiktok.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+42-->[androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+42-->[androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+43
+44    <application
+44-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:26:5-63:19
+45        android:allowBackup="true"
+45-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:27:9-35
+46        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+46-->[androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+47        android:dataExtractionRules="@xml/data_extraction_rules"
+47-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:28:9-65
+48        android:debuggable="true"
+49        android:extractNativeLibs="false"
+49-->INJECTED
+50        android:fullBackupContent="@xml/backup_rules"
+50-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:29:9-54
+51        android:label="@string/app_name"
+51-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:30:9-41
+52        android:supportsRtl="true"
+52-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:31:9-35
+53        android:theme="@style/Theme.PovTikTok" >
+53-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:32:9-47
+54        <activity
+54-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:34:9-42:20
+55            android:name="com.pov.tiktok.MainActivity"
+55-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:35:13-41
+56            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden"
+56-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:37:13-87
+57            android:exported="true" >
+57-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:36:13-36
+58            <intent-filter>
+58-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:38:13-41:29
+59                <action android:name="android.intent.action.MAIN" />
+59-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:39:17-69
+59-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:39:25-66
+60
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:40:17-77
+61-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:40:27-74
+62            </intent-filter>
+63        </activity>
+64        <activity
+64-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:44:9-47:53
+65            android:name="com.pov.tiktok.RecorderActivity"
+65-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:45:13-45
+66            android:exported="false"
+66-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:46:13-37
+67            android:label="@string/open_recorder" />
+67-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:47:13-50
+68        <activity
+68-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:49:9-52:53
+69            android:name="com.pov.tiktok.TranslatorActivity"
+69-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:50:13-47
+70            android:exported="false"
+70-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:51:13-37
+71            android:label="@string/open_terminal" />
+71-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:52:13-50
+72
+73        <service
+73-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:54:9-57:63
+74            android:name="com.pov.tiktok.ScreenRecordService"
+74-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:55:13-48
+75            android:exported="false"
+75-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:56:13-37
+76            android:foregroundServiceType="mediaProjection" />
+76-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:57:13-60
+77        <service
+77-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:59:9-62:77
+78            android:name="com.pov.tiktok.EegPlaybackService"
+78-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:60:13-47
+79            android:exported="false"
+79-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:61:13-37
+80            android:foregroundServiceType="mediaPlayback|connectedDevice" />
+80-->C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:62:13-74
+81
+82        <provider
+82-->[androidx.emoji2:emoji2:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\2443b90641587643cb64a2f1167b66c6\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+83            android:name="androidx.startup.InitializationProvider"
+83-->[androidx.emoji2:emoji2:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\2443b90641587643cb64a2f1167b66c6\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+84            android:authorities="com.pov.tiktok.androidx-startup"
+84-->[androidx.emoji2:emoji2:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\2443b90641587643cb64a2f1167b66c6\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+85            android:exported="false" >
+85-->[androidx.emoji2:emoji2:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\2443b90641587643cb64a2f1167b66c6\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+86            <meta-data
+86-->[androidx.emoji2:emoji2:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\2443b90641587643cb64a2f1167b66c6\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+87                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+87-->[androidx.emoji2:emoji2:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\2443b90641587643cb64a2f1167b66c6\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+88                android:value="androidx.startup" />
+88-->[androidx.emoji2:emoji2:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\2443b90641587643cb64a2f1167b66c6\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+89            <meta-data
+89-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\5ebc3aab122614a7b4b0c81d8011435f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+90                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+90-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\5ebc3aab122614a7b4b0c81d8011435f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+91                android:value="androidx.startup" />
+91-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\5ebc3aab122614a7b4b0c81d8011435f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+92            <meta-data
+92-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+93                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+93-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+94                android:value="androidx.startup" />
+94-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+95        </provider>
+96
+97        <receiver
+97-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+98            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+98-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+99            android:directBootAware="false"
+99-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+100            android:enabled="true"
+100-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+101            android:exported="true"
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+102            android:permission="android.permission.DUMP" >
+102-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+103            <intent-filter>
+103-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+104                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+104-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+104-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+105            </intent-filter>
+106            <intent-filter>
+106-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+107                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+107-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+107-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+108            </intent-filter>
+109            <intent-filter>
+109-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+110                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+110-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+110-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+111            </intent-filter>
+112            <intent-filter>
+112-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+113                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+113-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+113-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+114            </intent-filter>
+115        </receiver>
+116    </application>
+117
+118</manifest>

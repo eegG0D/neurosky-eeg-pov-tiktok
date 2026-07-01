@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">POV TikTok</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="train">Train</string>
+    <string name="stop_train">Stop Train</string>
+    <string name="start">Start</string>
+    <string name="start_capture">Start Capture</string>
+    <string name="stop_capture">Stop &amp; Save</string>
+    <string name="open_recorder">Recorder</string>
+    <string name="open_calc">Calc</string>
+    <string name="open_terminal">Term</string>
+    <string name="connect_eeg">Choose EEG device</string>
+    <string name="disconnect">Disconnect EEG</string>
+    <string name="status_idle">Idle</string>
+    <string name="status_simulating">Simulating (no EEG)</string>
+    <string name="no_paired">No paired Bluetooth devices. Pair your headset in system settings first.</string>
+    <string name="pick_device">Pick paired device</string>
+</resources>

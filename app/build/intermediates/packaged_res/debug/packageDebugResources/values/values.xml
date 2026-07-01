@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="accent">#FFFE2C55</color>
+    <color name="black">#FF000000</color>
+    <color name="connected">#FF66FF66</color>
+    <color name="recording">#FFFF4444</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">POV TikTok</string>
+    <string name="connect_eeg">Choose EEG device</string>
+    <string name="disconnect">Disconnect EEG</string>
+    <string name="no_paired">No paired Bluetooth devices. Pair your headset in system settings first.</string>
+    <string name="open_calc">Calc</string>
+    <string name="open_recorder">Recorder</string>
+    <string name="open_terminal">Term</string>
+    <string name="pick_device">Pick paired device</string>
+    <string name="record">Record</string>
+    <string name="start">Start</string>
+    <string name="start_capture">Start Capture</string>
+    <string name="status_idle">Idle</string>
+    <string name="status_simulating">Simulating (no EEG)</string>
+    <string name="stop">Stop</string>
+    <string name="stop_capture">Stop &amp; Save</string>
+    <string name="stop_train">Stop Train</string>
+    <string name="train">Train</string>
+    <style name="Theme.PovTikTok" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@android:color/black</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+    </style>
+</resources>

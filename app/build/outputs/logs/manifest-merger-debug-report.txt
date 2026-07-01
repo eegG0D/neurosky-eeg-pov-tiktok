@@ -1,0 +1,390 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:2:1-65:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\17283b837f191dad18a5e34f3c310f2e\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\20451923ef98fd4821e3eccadccebc55\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\b18905c169c33e8ee7b0446d3877d11a\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\934491998d169f2e0b3f839a6f836b42\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\7b3a54cb9c96620550187a33d9901e8b\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\vinny\.gradle\caches\9.4.1\transforms\a7f2156b027931ccaba17e64a7a91686\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\84c03f2573753420de7b860eb7ba58da\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\5aad265ac63b9cdf4cafc2054d91d165\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\53f4384805d3b048c4515ee32205b138\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\2443b90641587643cb64a2f1167b66c6\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\1663936cbaaa67d989c21941d11bba47\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\28b44d86e0c126305f906a676e46db7c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\e01445f0e821505e335928013ded3afe\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\9e8dc16981e0776745ed0cf7b2805fc4\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\409635172e1c76c0173c291deec3f4fd\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\9ad74c2649f04ab2e35ca32d433f4c9f\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\5ebc3aab122614a7b4b0c81d8011435f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\07490f8ba7aa62ed127a0a05564d3595\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\4d8609b8c5b401cb28e8d69c5719f360\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\4e3b0894bb861a0f085ab69359c6f1fa\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\83006c0bb009b5bf2fb005f7f876fc70\transformed\core-ktx-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\ea1e08b35fb76d0cf3d58a283461305e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\f46bd3fcb84db3477cafe2130b3cb7f2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\4e2634fada5a344c66b02f87a020d346\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\7f534b618904f2043e8a69b8221c559a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\d0f1b481a604d06f65380bf42e8d240b\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\46838715ff6504e67d31570c0dc31d00\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\d417bc2a4340fcf113f233ccd096df53\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\41dcae620a9a2132d0797e6c4fb0e948\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\454db15949300b9c191d227ff91b9413\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\ba16d54227234c5035856615d11a1373\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\80008c24d437e831c7c93b6c579ba097\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\faa14e492eee8d2543eebdfd71a02ea2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\97ee201615502f1114b6f3ad7a8e4b12\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\ef133a6139ae49cb6863b374d305c0fa\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\0237a37be4c9107ace4cd4d7c50c5ba3\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\b88ae4f51f086400803677930e351c28\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\5d733eb07d4c72f808933ebc69a1a1ef\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\aebdda4cd49b43fe8a6c23c2fad01727\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:9:5-10:38
+	android:maxSdkVersion
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:10:9-35
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:11:5-12:38
+	android:maxSdkVersion
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:12:9-35
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:11:22-71
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:15:5-77
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:15:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:16:22-91
+uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:17:5-92
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:17:22-89
+uses-permission#android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:18:5-94
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:18:22-91
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:19:5-77
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:19:22-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:20:22-65
+uses-feature#android.hardware.camera
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:22:5-84
+	android:required
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:22:58-81
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:22:19-57
+uses-feature#android.hardware.microphone
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:23:5-88
+	android:required
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:23:62-85
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:23:19-61
+uses-feature#android.hardware.bluetooth
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:24:5-88
+	android:required
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:24:61-85
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:24:19-60
+application
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:26:5-63:19
+INJECTED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:26:5-63:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\17283b837f191dad18a5e34f3c310f2e\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\17283b837f191dad18a5e34f3c310f2e\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\b18905c169c33e8ee7b0446d3877d11a\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\b18905c169c33e8ee7b0446d3877d11a\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\2443b90641587643cb64a2f1167b66c6\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\2443b90641587643cb64a2f1167b66c6\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\5ebc3aab122614a7b4b0c81d8011435f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\5ebc3aab122614a7b4b0c81d8011435f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\80008c24d437e831c7c93b6c579ba097\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\80008c24d437e831c7c93b6c579ba097\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\faa14e492eee8d2543eebdfd71a02ea2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\faa14e492eee8d2543eebdfd71a02ea2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:31:9-35
+	android:label
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:30:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:29:9-54
+	android:allowBackup
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:27:9-35
+	android:theme
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:32:9-47
+	android:dataExtractionRules
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:28:9-65
+activity#com.pov.tiktok.MainActivity
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:34:9-42:20
+	android:exported
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:36:13-36
+	android:configChanges
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:37:13-87
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:35:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:40:27-74
+activity#com.pov.tiktok.RecorderActivity
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:44:9-47:53
+	android:label
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:47:13-50
+	android:exported
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:45:13-45
+activity#com.pov.tiktok.TranslatorActivity
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:49:9-52:53
+	android:label
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:52:13-50
+	android:exported
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:51:13-37
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:50:13-47
+service#com.pov.tiktok.ScreenRecordService
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:54:9-57:63
+	android:exported
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:56:13-37
+	android:foregroundServiceType
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:57:13-60
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:55:13-48
+service#com.pov.tiktok.EegPlaybackService
+ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:59:9-62:77
+	android:exported
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:61:13-37
+	android:foregroundServiceType
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:62:13-74
+	android:name
+		ADDED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml:60:13-47
+uses-sdk
+INJECTED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\17283b837f191dad18a5e34f3c310f2e\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\17283b837f191dad18a5e34f3c310f2e\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\20451923ef98fd4821e3eccadccebc55\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\20451923ef98fd4821e3eccadccebc55\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\b18905c169c33e8ee7b0446d3877d11a\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\b18905c169c33e8ee7b0446d3877d11a\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\934491998d169f2e0b3f839a6f836b42\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\934491998d169f2e0b3f839a6f836b42\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\7b3a54cb9c96620550187a33d9901e8b\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\7b3a54cb9c96620550187a33d9901e8b\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\vinny\.gradle\caches\9.4.1\transforms\a7f2156b027931ccaba17e64a7a91686\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\vinny\.gradle\caches\9.4.1\transforms\a7f2156b027931ccaba17e64a7a91686\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\84c03f2573753420de7b860eb7ba58da\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\84c03f2573753420de7b860eb7ba58da\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\5aad265ac63b9cdf4cafc2054d91d165\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\5aad265ac63b9cdf4cafc2054d91d165\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\53f4384805d3b048c4515ee32205b138\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\53f4384805d3b048c4515ee32205b138\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\2443b90641587643cb64a2f1167b66c6\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\2443b90641587643cb64a2f1167b66c6\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\1663936cbaaa67d989c21941d11bba47\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\1663936cbaaa67d989c21941d11bba47\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\28b44d86e0c126305f906a676e46db7c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\28b44d86e0c126305f906a676e46db7c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\e01445f0e821505e335928013ded3afe\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\e01445f0e821505e335928013ded3afe\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\9e8dc16981e0776745ed0cf7b2805fc4\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\9e8dc16981e0776745ed0cf7b2805fc4\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\409635172e1c76c0173c291deec3f4fd\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\409635172e1c76c0173c291deec3f4fd\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\9ad74c2649f04ab2e35ca32d433f4c9f\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\9ad74c2649f04ab2e35ca32d433f4c9f\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\5ebc3aab122614a7b4b0c81d8011435f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\5ebc3aab122614a7b4b0c81d8011435f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\07490f8ba7aa62ed127a0a05564d3595\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\07490f8ba7aa62ed127a0a05564d3595\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\4d8609b8c5b401cb28e8d69c5719f360\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\4d8609b8c5b401cb28e8d69c5719f360\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\4e3b0894bb861a0f085ab69359c6f1fa\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\4e3b0894bb861a0f085ab69359c6f1fa\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\83006c0bb009b5bf2fb005f7f876fc70\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\83006c0bb009b5bf2fb005f7f876fc70\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\ea1e08b35fb76d0cf3d58a283461305e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\ea1e08b35fb76d0cf3d58a283461305e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\f46bd3fcb84db3477cafe2130b3cb7f2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\f46bd3fcb84db3477cafe2130b3cb7f2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\4e2634fada5a344c66b02f87a020d346\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\4e2634fada5a344c66b02f87a020d346\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\7f534b618904f2043e8a69b8221c559a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\7f534b618904f2043e8a69b8221c559a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\d0f1b481a604d06f65380bf42e8d240b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\d0f1b481a604d06f65380bf42e8d240b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\46838715ff6504e67d31570c0dc31d00\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\46838715ff6504e67d31570c0dc31d00\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\d417bc2a4340fcf113f233ccd096df53\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\d417bc2a4340fcf113f233ccd096df53\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\41dcae620a9a2132d0797e6c4fb0e948\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\41dcae620a9a2132d0797e6c4fb0e948\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\454db15949300b9c191d227ff91b9413\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\454db15949300b9c191d227ff91b9413\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\ba16d54227234c5035856615d11a1373\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\ba16d54227234c5035856615d11a1373\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\80008c24d437e831c7c93b6c579ba097\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\80008c24d437e831c7c93b6c579ba097\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\faa14e492eee8d2543eebdfd71a02ea2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\faa14e492eee8d2543eebdfd71a02ea2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\97ee201615502f1114b6f3ad7a8e4b12\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\97ee201615502f1114b6f3ad7a8e4b12\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\ef133a6139ae49cb6863b374d305c0fa\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\ef133a6139ae49cb6863b374d305c0fa\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\0237a37be4c9107ace4cd4d7c50c5ba3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\0237a37be4c9107ace4cd4d7c50c5ba3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\b88ae4f51f086400803677930e351c28\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\b88ae4f51f086400803677930e351c28\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\5d733eb07d4c72f808933ebc69a1a1ef\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\5d733eb07d4c72f808933ebc69a1a1ef\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\aebdda4cd49b43fe8a6c23c2fad01727\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\aebdda4cd49b43fe8a6c23c2fad01727\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\vinny\Desktop\desktop\pov-tiktok\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\2443b90641587643cb64a2f1167b66c6\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\5ebc3aab122614a7b4b0c81d8011435f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\5ebc3aab122614a7b4b0c81d8011435f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\faa14e492eee8d2543eebdfd71a02ea2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\faa14e492eee8d2543eebdfd71a02ea2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\2443b90641587643cb64a2f1167b66c6\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\2443b90641587643cb64a2f1167b66c6\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\2443b90641587643cb64a2f1167b66c6\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\2443b90641587643cb64a2f1167b66c6\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\2443b90641587643cb64a2f1167b66c6\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\2443b90641587643cb64a2f1167b66c6\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\2443b90641587643cb64a2f1167b66c6\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\5ebc3aab122614a7b4b0c81d8011435f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\5ebc3aab122614a7b4b0c81d8011435f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vinny\.gradle\caches\9.4.1\transforms\5ebc3aab122614a7b4b0c81d8011435f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+permission#com.pov.tiktok.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+uses-permission#com.pov.tiktok.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\vinny\.gradle\caches\9.4.1\transforms\8b772993ba5f275659e41b7ab33d4019\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vinny\.gradle\caches\9.4.1\transforms\52f45266aad410f2022d6d83e45de90e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
